@@ -8,7 +8,7 @@ void main()
     for(i=1; i<=10; i++)
     {
         result = n*i;
-        printf("\n %d",result);
+        printf("%d * %d = %d\n",n, i, result);
     }
     getch(); 
 }
