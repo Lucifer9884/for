@@ -1,4 +1,4 @@
-//Program For Converting Temprature
+//Program For Converting Temprature From Celsius to Fhrenheit 
 #include <stdio.h>
 #include <conio.h>
 void main()
